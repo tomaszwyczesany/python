@@ -39,3 +39,4 @@ for i in we:
         passa_b += 1
 print('Passy A ',len(tA),'B :',len(tB),'suma:',len(tA)+len(tB))
 print('max A :', max(tA),'max B :', max(tB))
+#komentarz
