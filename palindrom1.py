@@ -9,3 +9,7 @@ if (palindrom == test):
     print("podane słowo jest palindromem")
 else:
     print("podane slowo nie jest palindromem")
+
+
+
+

@@ -1,3 +1,8 @@
+print("---------------------------------------------")
+print("|           Program : Ptyhon 1.0             |")
+print("|           Autor : Tomasz Wyczesany         |")
+print("|____________________________________________|")
+
 # przypisywanie zmiennym wartości
 pomaranczowy_krol = 3
 agnieszka = 5
