@@ -1,8 +1,21 @@
-a = float(7.58)
-y = 1
-x = y
-b = 1
-p = 2*a+b
 
-t = a/b
-print(t)
+
+# Poproś użytkownika o wprowadzenie słowa
+# i przypisz je do zmiennej slowo_uzytkownika
+
+slowo = input("podaj slowo")
+slowo = slowo.upper()
+# Uzupełnij pętlę for poniżej:
+for litera in slowo:
+    if litera == "A":
+        continue
+    elif litera == "E":
+        continue
+    elif litera == "I":
+        continue
+    elif litera == "O":
+        continue
+    elif litera == "U":
+        continue
+    else:
+        print(litera)
