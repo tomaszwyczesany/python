@@ -1498,7 +1498,6 @@ from uu import encode
 # Pola te mają być uzupełniane przy tworzeniu obiektu.
 # Dodaj do klasy metodę get_bmi która zwróci obliczone na podstawie pól BMI.
 # Powołaj do życia obiekt tej klasy i wyświetl na konsoli obliczone BMI.
-#
 # class Zawodnik:
 #     wzrost=None
 #     masa=None
@@ -1508,7 +1507,6 @@ from uu import encode
 #     def get_bmi(self):
 #         bmi=round(self.masa/pow(self.wzrost,2),2)
 #         return bmi
-#
 # x=funkcja()
 # print(x)
 # print(funkcja())
